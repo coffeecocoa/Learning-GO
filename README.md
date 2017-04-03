@@ -1,1 +1,1 @@
-# Learning Go
+Just for Learning Go
